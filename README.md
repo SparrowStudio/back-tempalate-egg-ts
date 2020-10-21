@@ -30,7 +30,7 @@ Sparrow Studio 项目组后端项目开发模板，方便快速创建新项目�
 获取项目代码
 
 ```sh
-git clone https://gitee.com/sparrow-studio/back-tempalate-egg.git
+git clone https://gitee.com/sparrow-studio/back-template-egg.git
 ```
 
 查看远程地址
